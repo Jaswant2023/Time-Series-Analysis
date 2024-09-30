@@ -3,7 +3,7 @@
 
 ## Motivation
 
-In this project, we analyzed, modeled, and forecasted the exchange rate of the US Dollar against five major currencies: `Euro (EUR)`, `British Pound (GBP)`, `Indian Rupee (INR)`, `Chinese Yuan (CNY)`, and `Japanese Yen (JPY)`. We employed `ARIMA`, `SARIMA`, and `SARIMAX` models, comparing their accuracy to identify the most reliable forecasting approach. Additionally, we developed an interactive Power BI dashboard to visually present both historical and forecasted time-series data for enhanced analysis.
+This project involved analyzing and forecasting the US Dollar's exchange rate with five key currencies: Euro (EUR), British Pound (GBP), Indian Rupee (INR), Chinese Yuan (CNY), and Japanese Yen (JPY). We applied ARIMA, SARIMA, and SARIMAX models, evaluating their performance to determine the most accurate for predictions. The project also features an interactive Power BI dashboard, offering a clear visual representation of both historical and forecasted exchange rates for better insights.
 
 ## Objective
 
