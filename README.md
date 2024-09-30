@@ -1,8 +1,9 @@
 # Exchange Rate Time-Series Analysis using SARIMAX models
 
+
 ## Motivation
 
-The foreign Exchange rates between two currencies determine the trade relations with the two countries. It includes imports and exports, tourism, foreign investments, and other internal factors like inflation and interest rates. This makes the analysis and forecasting of Exchange Rate a valuable source of insight for the economists and businesses across the globe.
+In this project, we analyzed, modeled, and forecasted the exchange rate of the US Dollar against five major currencies: `Euro (EUR)`, `British Pound (GBP)`, `Indian Rupee (INR)`, `Chinese Yuan (CNY)`, and `Japanese Yen (JPY)`. We employed `ARIMA`, `SARIMA`, and `SARIMAX` models, comparing their accuracy to identify the most reliable forecasting approach. Additionally, we developed an interactive Power BI dashboard to visually present both historical and forecasted time-series data for enhanced analysis.
 
 ## Objective
 
